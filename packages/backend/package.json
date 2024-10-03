@@ -21,7 +21,7 @@
     "@backstage-community/plugin-todo-backend": "^0.3.17",
     "@backstage/backend-defaults": "^0.3.4-next.1",
     "@backstage/backend-plugin-api": "^0.6.22-next.1",
-    "@backstage/plugin-app-backend": "^0.3.71-next.1",
+    "@backstage/plugin-app-backend": "^0.3.75",
     "@backstage/plugin-auth-backend": "^0.22.9-next.1",
     "@backstage/plugin-auth-backend-module-github-provider": "^0.1.19-next.1",
     "@backstage/plugin-auth-backend-module-guest-provider": "^0.1.8-next.1",
